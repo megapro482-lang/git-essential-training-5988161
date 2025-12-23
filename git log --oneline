@@ -1,0 +1,85 @@
+[33mcommit 134316a3ea1060c4dcbc6620a15ee6610720552f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Vladislav <vladislav.filev@abv.bg>
+Date:   Wed Dec 24 01:32:41 2025 +0200
+
+    test
+
+[33mcommit 7adc044f285c95dab646a3cb2a8cafd7610966f4[m
+Author: Vladislav <vladislav.filev@abv.bg>
+Date:   Wed Dec 24 01:32:05 2025 +0200
+
+    test
+
+[33mcommit d0e25fb0db39dc987292220f6c64cb546ca4563f[m
+Author: Vladislav <vladislav.filev@abv.bg>
+Date:   Wed Dec 24 01:31:41 2025 +0200
+
+    test
+
+[33mcommit f04cf021995845b51e7c7bd3821fbcb9874c4917[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vladislav <vladislav.filev@abv.bg>
+Date:   Mon Dec 22 17:32:39 2025 +0200
+
+    initial commit
+
+[33mcommit d28f60be8d0dcc5522ad4f47ddc44aff1ac11075[m
+Author: megapro482-lang <megapro482@gmail.com>
+Date:   Mon Dec 22 16:48:20 2025 +0200
+
+    Create Example02.md
+
+[33mcommit f169eba0cb61d2926276dd6a03d17d9ee08b7768[m
+Author: Vladislav <vladislav.filev@abv.bg>
+Date:   Mon Dec 22 16:31:17 2025 +0200
+
+    adds Example.md to demonstrate the git process
+
+[33mcommit 4bf5834aec04fb112ebd5ae8e51e8a6795a1640a[m
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Mon May 5 09:09:24 2025 -0700
+
+    Update NOTICE
+
+[33mcommit ae601c052b1d19d857e7aa1bf97df3154c07af94[m
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Mon May 5 09:08:55 2025 -0700
+
+    Update README.md
+
+[33mcommit ac3e1d09e642966e3b68dea06d1e951984eff1dd[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Thu Apr 3 20:09:08 2025 +0000
+
+    update readme for Git Essential training course
+
+[33mcommit 2f612162d359e25ec4dd6b88b2db97ad62a4a4df[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Mon Mar 31 21:48:13 2025 +0000
+
+    clear terminal window after creation
+
+[33mcommit f64512739f9721e04e008f0640c12c1b75442c09[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Mon Mar 31 21:41:14 2025 +0000
+
+    Increase font size for terminal to match editor
+
+[33mcommit 333c1e67995fc644a2dc06ab50961951fd05fbea[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Sat Feb 22 16:23:25 2025 +0000
+
+    Adds the code to expose the .git folder (commented)
+
+[33mcommit da4508ff5885dca75ce6e464646fc472872e3df0[m
+Author: cmosier-LiL <88352515+cmosier-LiL@users.noreply.github.com>
+Date:   Tue Dec 17 14:44:11 2024 -0800
+
+    Update README.md
+    
+    update course name
+
+[33mcommit 110e885edef2f86d09ea75847e374e2e0697a9ac[m
+Author: cmosier-LiL <88352515+cmosier-LiL@users.noreply.github.com>
+Date:   Tue Dec 17 14:43:46 2024 -0800
+
+    Initial commit
